@@ -1,1 +1,2 @@
- this is first app file 
+ this is first app file
+this is second line from cli 
